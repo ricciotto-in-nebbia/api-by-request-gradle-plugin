@@ -5,4 +5,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'api-by-request-gradle-plugin'
+rootProject.name = 'api-on-demand-gradle-plugin'

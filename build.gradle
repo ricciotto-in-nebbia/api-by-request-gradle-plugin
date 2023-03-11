@@ -14,8 +14,8 @@ java {
 gradlePlugin {
     plugins {
         apiByRequestGradlePlugin {
-            id = 'com.devtool.proto-api-by-request'
-            implementationClass = 'com.devtool.api.by.request.plugin.RequestApiGradlePlugin'
+            id = 'com.devtool.proto-api-on-demand'
+            implementationClass = 'com.devtool.api.by.request.plugin.ApiOnDemandCradlePlugin'
         }
     }
 }

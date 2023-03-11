@@ -11,7 +11,7 @@ import org.gradle.api.tasks.TaskContainer;
 
 import java.io.File;
 
-public class RequestApiGradlePlugin implements Plugin<Project> {
+public class ApiOnDemandCradlePlugin implements Plugin<Project> {
 
 	private static final String COLON = ":";
 	private static final String TASK_0 = "preparePath";
